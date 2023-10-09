@@ -186,13 +186,15 @@ button span{
 
 .hero {
     background: rgb(105, 0, 101);
+    transition: 1s;
 }
 
 .hero-box{
     background: black;
-    opacity: 1;
+    /* opacity: 1; */
     height: 100vh;
     color: #fff;
+    transition: 1s;
 }
 
 
